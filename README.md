@@ -65,18 +65,3 @@ In this project:
 - Deploy the application on a cloud platform.
 - Improve prediction reliability through further model evaluation.
 
-## ⚠️ Disclaimer
-
-This project is developed for educational and research purposes. It is not a substitute for professional medical advice, diagnosis, or treatment. Predictions should be reviewed by qualified healthcare professionals.
-
-## 👩‍💻 Author
-
-**Ojaswitha**
-
-GitHub: Add your GitHub profile link here.
-
-LinkedIn: Add your LinkedIn profile link here.
-
----
-
-⭐ If you find this project interesting, feel free to star the repository!
