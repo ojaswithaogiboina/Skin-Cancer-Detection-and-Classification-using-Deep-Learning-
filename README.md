@@ -1,4 +1,4 @@
-# Skin-Cancer-Detection-and-Classification-using-Deep-Learning-
+
 # Skin Cancer Detection and Classification Using Deep Learning
 
 ## 📌 Project Overview
